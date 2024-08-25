@@ -1,0 +1,11 @@
+#insert python library 
+python-dotenv
+openai
+langchain
+langchain-openai
+langchain-community
+# aws
+boto3
+langchain_aws
+langchain-google-genai
+langchain-ollama
